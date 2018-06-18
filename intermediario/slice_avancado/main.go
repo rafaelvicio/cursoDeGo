@@ -21,4 +21,5 @@ func main() {
 
 	ultimas := cidades[3:]
 	fmt.Println(ultimas)
+
 }
